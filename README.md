@@ -17,6 +17,7 @@ google-apps-script/Code.gs
 ```
 Changes: added `js/config.js` so there is one obvious place for settings; the nav and the letter/gift cards are drawn by `main.js` so they stay identical across pages.
 
+
 ## Placeholders to replace
 | Where | What |
 |---|---|
