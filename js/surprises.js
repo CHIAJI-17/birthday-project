@@ -1,6 +1,6 @@
 // EDIT: one entry per gift, in order. Separate paragraphs with a blank line (\n\n).
 const GIFTS = [
-  { title: "Teddy Bear", body: "Hug me when im not next you(●'◡'●)" },
+  { title: "Teddy Bear", body: "Ik you haven't realized it yet but the whole reason why i chose this day to begin all this on this very day 4th November 2026 is cuz its 2/3 months (i dont know how to count it for some reason my head is too full) since we started dating. I remember how you hugged me on that day and it felt so genuine and your smile and joy... its just a memory that constantly hovers in my mind. Sooo hug me when im far away, when your peace is under siege orrrr just when im not next you(●'◡'●)." },
   { title: "[Gift 2 name]", body: "[PLACEHOLDER: describe or link Gift 2.]" },
   { title: "[Gift 3 name]", body: "[PLACEHOLDER: describe or link Gift 3.]" },
   { title: "[Grand Finale name]", body: "[PLACEHOLDER: describe the grand finale.]" }
