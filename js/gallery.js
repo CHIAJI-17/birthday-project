@@ -2,9 +2,9 @@
 const MEMORIES = [
   { file: "Ole Sereni Post Spa.jpeg", caption: "SAY SPAAAA DATEEEEEEEEEEEEE" }, { file: "She's Drop dead gorgeous.jpeg", caption: "Woah. She's too Stunning its unfairrrrr😣" },
   { file: "Day i Proposed.jpeg", caption: "Guesss Who was taken off the market without touch it😜❤️" }, { file: "Love her eyes.jpeg", caption: "Omds. The eyeesss chico, they never lie!!! (But they trap😍)" },
-  { file: "Foodies.jpeg", caption: "Awwww. She visited me on a very boring Saturday and made me eat Chinese w her🥹" }, { file: "Surpriseeee.jpeg", caption: "You'll have to wait for this one... Lets seee that patience get tested😊" }
-];
-(function () {
+  { file: "Foodies.jpeg", caption: "Awwww. She visited me on a very boring Saturday and made me eat Chinese w her🥹" }, { file: "Boyfriends Day.jpeg", caption: "Ms. Gorgeous thought she went 10/10 on a surprise. Im showing her levelss to ts.😝❤️" },
+  { file: "Sayyy Teddy.jpeg", caption: "Guess who got a giant teddyyyyyyy💕🥹" }, { file: "Surpriseeee.jpeg", caption: "You'll have to wait for this one... Lets seee that patience get tested😊" }
+];(function () {
   const box = document.getElementById("gallery");
   if (!box) return;
   MEMORIES.forEach((m, i) => {
