@@ -6,5 +6,5 @@ const CONFIG = {
   birthday: "2026-11-27",
   // OPTIONAL backup unlock for the Surprises page, in case her browser forgets she finished the questionnaire
   // (cleared site data, new phone, private mode). Leave "" to disable. Not secure: anyone can read it in this file.
-  unlockOverrideCode: ""
+  unlockOverrideCode: "27-11-05"
 };
