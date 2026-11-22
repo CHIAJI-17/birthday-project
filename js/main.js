@@ -2,7 +2,7 @@
 const REVEALS = [
   { id: 1, date: "2026-11-04" },
   { id: 2, date: "2026-11-17" },
-  { id: 3, date: "2026-11-23" },
+  { id: 3, date: "2026-11-24" },
   { id: 4, date: "2026-11-27", final: true }
 ];
 const PAGES = [["index.html","Home","home"],["memories.html","Memories","memories"],["letters.html","Letters","letters"],["questionnaire.html","Questionnaire","questionnaire"],["surprises.html","Surprises ✦","surprises"]];
